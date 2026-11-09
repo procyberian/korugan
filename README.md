@@ -6,7 +6,7 @@ korugan uygulama dağıtım ve izolasyon sistemi
 
 korugan uygulama dağıtım ve izolasyon sistemi
 
-Copyright (C) 2026 PSD Authors
+Copyright (C) 2026-2027 PSD Authors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
